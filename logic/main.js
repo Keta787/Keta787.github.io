@@ -1,6 +1,6 @@
 // === EQUIPO ===
 const miembros = [
-  { nombre: "Juan Pablo Ángel Quitián", apodo: "backend-dev", descripcion: "Desarrollador backend enfocado en la lógica del sistema y gestión de base de datos.", imagen: "../style/img/Juan_Pablo.jpg" },
+  { nombre: "Juan Pablo Ángel Quitián", apodo: "backend-dev", descripcion: "Desarrollador backend enfocado en la lógica del sistema y gestión de base de datos.", imagen: "../style/img/Joel_Malo.jpg" },
   { nombre: "Joel Sebastián Bueno Medina", apodo: "backend-dev", descripcion: "Desarrollador backend enfocado en la lógica del sistema y gestión de base de datos.", imagen: "../style/img/Joel_Malo.jpg" },
   { nombre: "Johan Steven López Ordoñez", apodo: "frontend-dev", descripcion: "Diseñador y desarrollador frontend responsable de la interfaz web.", imagen: "../style/img/Johan_Sanchez.jpg" },
   { nombre: "Juan Sebastián Rueda Ortiz", apodo: "frontend-dev", descripcion: "Diseñador y desarrollador frontend responsable de la interfaz web.", imagen: "../style/img/Juan_Rueda.jpg" },
